@@ -1,4 +1,6 @@
-# Fundamentals of system design
+# System design resources
+![em banner](https://github.com/user-attachments/assets/e25cad4d-a31a-4924-acb9-01b2e9e22616)
+## Fundamentals of system design 
 |Topic name|Video link|
 |---------:|:--------:|
 |Basic flow of request in web system|[LINK](https://youtu.be/xuj62aOZLnE)|
